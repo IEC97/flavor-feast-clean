@@ -29,27 +29,30 @@ App móvil y web para descubrir, gestionar y compartir recetas. Compatible con *
 ## 🔧 Instalación
 
 1. Clonar el repositorio
+   
+  git clone https://github.com/tu-usuario/flavor-feast.git
+  cd flavor-feast
 
-git clone https://github.com/tu-usuario/flavor-feast.git
-cd flavor-feast
+3. Instalar dependencias
+   
+  npm install
 
-2. Instalar dependencias
-npm install
-
-3. Instalar soporte para Web (Expo Web)
-npx expo install react-dom react-native-web @expo/metro-runtime
+5. Instalar soporte para Web (Expo Web)
+   
+  npx expo install react-dom react-native-web @expo/metro-runtime
 
 ▶️ Ejecución
-npx expo start
 
-Presioná a para Android
-Presioná i para iOS
-Presioná w para Web
+  npx expo start
+
+- Presioná a para Android
+- Presioná i para iOS
+- Presioná w para Web
 
 📱 Requisitos
-Node.js 18 o superior
-Expo Go (en tu celular)
-Navegador moderno (para Web)
+- Node.js 18 o superior
+- Expo Go (en tu celular)
+- Navegador moderno (para Web)
 
 🛠️ Estructura del proyecto
 .
@@ -64,8 +67,8 @@ Navegador moderno (para Web)
 
 ✨ Créditos
 Desarrollado con ❤️ por:
-SAFADIE SHIRLY AILEN
-MENDEZ FERRIN SANTIAGO A
-CARDOZO IVANA ELIZABET
-LAMORTER LUCA
+- SAFADIE SHIRLY AILEN
+- MENDEZ FERRIN SANTIAGO A
+- CARDOZO IVANA ELIZABET
+- LAMORTER LUCA
 ```
